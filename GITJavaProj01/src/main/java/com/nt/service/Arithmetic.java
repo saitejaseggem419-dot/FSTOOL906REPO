@@ -9,6 +9,7 @@ public class Arithmetic {
 		 return x-y;
 	 }
 	public int mul(int x, int y) {
+		System.out.println("Arithmetic.mul()");
 		 return x*y;
 	 }
 
