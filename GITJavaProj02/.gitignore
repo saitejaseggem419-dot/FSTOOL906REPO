@@ -1,0 +1,17 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Maven generated metadata
+**/pom.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
